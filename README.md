@@ -1,0 +1,2 @@
+# Triplot
+Inspired by python packages such as getdist (https://getdist.readthedocs.io/en/latest/) and corner.py (https://corner.readthedocs.io/en/latest/), this code allows to create a triangle plot to visualize the relations among different parameters in high dimensional samples. I hope that the simplicity of this code makes it slightly more accessible than other software and potentially slightly faster.
